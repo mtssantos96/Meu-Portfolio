@@ -1,0 +1,26 @@
+      body {
+            font-family: sans-serif;
+            background-color: #A8DADC;
+        }
+        h1 {
+            font-family: 'Montserrat', sans-serif;
+            font-weight: bold;
+            color: #1D3557;
+        }
+        h2 {
+            font-family: 'Roboto', sans-serif;
+            font-weight: bold;
+            color: #457B9D;
+        }
+        .habilidade1 {
+            font-size: 110%;
+        }
+        .habilidade2 {
+            font-size: 90%;
+        }
+        .habilidade3 {
+            font-size: 110%;
+        }
+        .habilidade4 {
+            font-size: 90%;
+        }
